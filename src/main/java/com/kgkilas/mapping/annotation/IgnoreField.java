@@ -1,4 +1,4 @@
-package com.kgkilas.mapping.strategy.annotation;
+package com.kgkilas.mapping.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package com.kgkilas.mapping.strategy;
+package com.kgkilas.mapping;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
